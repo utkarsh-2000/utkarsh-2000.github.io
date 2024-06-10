@@ -2,7 +2,6 @@
 title: "Geant4 Optical Photons Poster"
 collection: talks
 type: "Poster"
-permalink: files/Poster_Summer_22_Optical_Photons_using Geant4.pdf
 venue: "Indian Institute of Technology (IIT) Roorkee"
 date: 2022-07-12
 location: "India"
