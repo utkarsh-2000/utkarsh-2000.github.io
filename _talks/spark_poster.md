@@ -10,4 +10,4 @@ permalink: /talks/spark_poster
 ---
 
 Poster presentation as a part of IIT Roorkee summer internship.
-
+[Poster]{http://utkarsh-2000.github.io/files/Poster_Summer_22_Optical_Photons_using_Geant4.pdf}
