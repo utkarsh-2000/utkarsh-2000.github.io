@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **BS MS $|$ Physics**
+* **BS MS Physics**
   - Indian Institute of Science Education and Research (IISER) Mohali
 <!---
 * B.S. in GitHub, GitHub University, 2012
