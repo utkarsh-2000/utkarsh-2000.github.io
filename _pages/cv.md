@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **BS MS | Physics**
-** Indian Institute of Science Education and Research (IISER) Mohali
+- Indian Institute of Science Education and Research (IISER) Mohali
 <!---
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
