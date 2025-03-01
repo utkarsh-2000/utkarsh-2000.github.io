@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* **BS MS Physics**
+* **BS MS _Physics_**
   - Indian Institute of Science Education and Research (IISER) Mohali
+
 <!---
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
@@ -56,8 +57,9 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
--->
+
   
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
