@@ -11,6 +11,9 @@ redirect_from:
 
 Education
 ======
+**BS MS | Physics**
+Indian Institute of Science Education and Research (IISER) Mohali
+<!---
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -53,6 +56,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
 Service and leadership
 ======
