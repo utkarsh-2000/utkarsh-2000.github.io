@@ -13,7 +13,7 @@ Education
 ======
 * **BS MS _Physics_**
   - Indian Institute of Science Education and Research (IISER) Mohali
-  - Thesis : _Simulation techniques and fast-timing analysis using scintillator detectors _
+  - Thesis - _Simulation techniques and fast-timing analysis using scintillator detectors_
 
 <!---
 * B.S. in GitHub, GitHub University, 2012
