@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **BS MS _Physics_**
-  - Indian Institute of Science Education and Research (IISER) Mohali
+  - Indian Institute of Science Education and Research (IISER) Mohali, 2019 - 2024
   - Thesis - _Simulation techniques and fast-timing analysis using scintillator detectors_
 
 <!---
