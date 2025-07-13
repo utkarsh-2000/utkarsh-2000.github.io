@@ -1,36 +1,36 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Utkarsh Bajpai",
+    "label": "Student",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "ms19011@iisermohali.ac.in",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://utkarsh-2000.github.io/",
+    "summary": "A student exploring physics and strongly intrigued by the limits of computational tools in research",
     "location": {
       "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "postalCode": "123456",
+      "city": "Agra",
+      "countryCode": "India",
+      "region": "Region"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "utkarsh bajpai",
+        "url": "www.linkedin.com/in/utkarsh-bajpai-30209a1a8"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Universityy",
+      "position": "Student",
       "url": "https://example.com",
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "To be added..."
+      "highlights": ["Experimental physics"]
     }
   ],
   "volunteer": [
@@ -47,24 +47,24 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Indian Institute of Science Education and Research (IISER), Mohali, India",
+      "location": "Mohali, India",
+      "url": "https://www.iisermohali.ac.in/",
+      "area": "Physics",
+      "studyType": "BS MS",
+      "startDate": "2019-08-05",
+      "endDate": "2024-06-12",
+      "score": "9.6/10",
+      "courses": ["Nuclear Astrophysics, Quantum Field Theory, Nuclear and Particle Physics, Quantum Mechanics"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
+      "title": "Award name",
       "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
+      "awarder": "Some Academy of Sciences",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "Summary of award"
     }
   ],
   "certificates": [
