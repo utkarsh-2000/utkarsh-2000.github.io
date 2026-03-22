@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
+    <p>284 Nieuwland Science Hall</p>
     <p>123 University of NOtre Dame</p>
     <p>Your Notre Dame, Indiana 46556</p>
 
