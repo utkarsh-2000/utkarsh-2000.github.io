@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My first blog post
-date: 2015-05-15 21:01:00
+date: 2026-07-05 07:51:00
 description: this is what included images could look like
 tags: formatting images
 categories: sample-posts
